@@ -1,4 +1,6 @@
-a=int(input("Enter no :"))
-b=int(input("Enter no :"))
-c=a+b
-print("Addition is :", c)
+def addition():
+    a=int(input("Enter no :"))
+    b=int(input("Enter no :"))
+    c=a+b
+    print("Addition is :", c)
+addition()
