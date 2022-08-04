@@ -1,3 +1,4 @@
+# this is the use function in python
 def addition():
     a=int(input("Enter no :"))
     b=int(input("Enter no :"))
